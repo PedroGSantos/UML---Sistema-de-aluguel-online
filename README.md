@@ -1,2 +1,7 @@
-# UML---Sistema-de-aluguel-online
- Sistema de aluguel online desenvolvido através de UML durante a matéria de Teoria de Desenvolvimento de Sistemas em 2019
+# UML - Sistema de aluguel online
+Nesse projeto realizado durante dois bimestres, foram feitos os seguintes componentes utilizando a linguagem uml para a elaboração do sistema de aluguel:
+
+* **Design thinking (Duas primeiras etapas)**
+* **Formulário e diagrama de caso de uso**
+* **Diagrama de classes**
+* **Diagrama sequencial**
